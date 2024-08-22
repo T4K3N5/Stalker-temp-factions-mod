@@ -1,0 +1,8 @@
+GameProject {
+ ID "StalkerTempFactions"
+ GUID "622B5990550C72F2"
+ TITLE "Stalker Temp Factions"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
